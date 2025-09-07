@@ -30,5 +30,5 @@ Deployment – app.py
 
 Here is a screenshot of the deployed application:
 
-![Streamlit Demo](images/prediction.png)
+![Streamlit Demo](images/prediction.jpg)
 
