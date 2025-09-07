@@ -26,4 +26,9 @@ Deployment – app.py
       Model predicts the next word in real time
       Simple and user-friendly web interface
 
-      <img width="1487" height="856" alt="image" src="https://github.com/user-attachments/assets/450a1b27-83b8-469a-a7e0-d06563420620" />
+## 🖥️ Streamlit App Demo
+
+Here is a screenshot of the deployed application:
+
+![Streamlit Demo](images/prediction.png)
+
